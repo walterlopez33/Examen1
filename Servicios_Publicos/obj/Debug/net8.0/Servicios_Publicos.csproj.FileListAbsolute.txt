@@ -1,0 +1,86 @@
+C:\Users\Randy\source\repos\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Randy\source\repos\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.AssemblyInfoInputs.cache
+C:\Users\Randy\source\repos\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.AssemblyInfo.cs
+C:\Users\Randy\source\repos\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.csproj.CoreCompileInputs.cache
+C:\Users\Randy\source\repos\Servicios_Publicos\Servicios_Publicos\bin\Debug\net8.0\Servicios_Publicos.exe
+C:\Users\Randy\source\repos\Servicios_Publicos\Servicios_Publicos\bin\Debug\net8.0\Servicios_Publicos.deps.json
+C:\Users\Randy\source\repos\Servicios_Publicos\Servicios_Publicos\bin\Debug\net8.0\Servicios_Publicos.runtimeconfig.json
+C:\Users\Randy\source\repos\Servicios_Publicos\Servicios_Publicos\bin\Debug\net8.0\Servicios_Publicos.dll
+C:\Users\Randy\source\repos\Servicios_Publicos\Servicios_Publicos\bin\Debug\net8.0\Servicios_Publicos.pdb
+C:\Users\Randy\source\repos\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.dll
+C:\Users\Randy\source\repos\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\refint\Servicios_Publicos.dll
+C:\Users\Randy\source\repos\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.pdb
+C:\Users\Randy\source\repos\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.genruntimeconfig.cache
+C:\Users\Randy\source\repos\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\ref\Servicios_Publicos.dll
+D:\Minor_Murcia\Servicios_Publicos\Servicios_Publicos\bin\Debug\net8.0\Servicios_Publicos.exe
+D:\Minor_Murcia\Servicios_Publicos\Servicios_Publicos\bin\Debug\net8.0\Servicios_Publicos.deps.json
+D:\Minor_Murcia\Servicios_Publicos\Servicios_Publicos\bin\Debug\net8.0\Servicios_Publicos.runtimeconfig.json
+D:\Minor_Murcia\Servicios_Publicos\Servicios_Publicos\bin\Debug\net8.0\Servicios_Publicos.dll
+D:\Minor_Murcia\Servicios_Publicos\Servicios_Publicos\bin\Debug\net8.0\Servicios_Publicos.pdb
+D:\Minor_Murcia\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Minor_Murcia\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.AssemblyInfoInputs.cache
+D:\Minor_Murcia\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.AssemblyInfo.cs
+D:\Minor_Murcia\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.csproj.CoreCompileInputs.cache
+D:\Minor_Murcia\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.dll
+D:\Minor_Murcia\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\refint\Servicios_Publicos.dll
+D:\Minor_Murcia\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.pdb
+D:\Minor_Murcia\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.genruntimeconfig.cache
+D:\Minor_Murcia\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\ref\Servicios_Publicos.dll
+C:\Users\Pensiones\Desktop\proyecto progra servicios publicos\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\bin\Debug\net8.0\Servicios_Publicos.exe
+C:\Users\Pensiones\Desktop\proyecto progra servicios publicos\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\bin\Debug\net8.0\Servicios_Publicos.deps.json
+C:\Users\Pensiones\Desktop\proyecto progra servicios publicos\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\bin\Debug\net8.0\Servicios_Publicos.runtimeconfig.json
+C:\Users\Pensiones\Desktop\proyecto progra servicios publicos\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\bin\Debug\net8.0\Servicios_Publicos.dll
+C:\Users\Pensiones\Desktop\proyecto progra servicios publicos\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\bin\Debug\net8.0\Servicios_Publicos.pdb
+C:\Users\Pensiones\Desktop\proyecto progra servicios publicos\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pensiones\Desktop\proyecto progra servicios publicos\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.AssemblyInfoInputs.cache
+C:\Users\Pensiones\Desktop\proyecto progra servicios publicos\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.AssemblyInfo.cs
+C:\Users\Pensiones\Desktop\proyecto progra servicios publicos\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.csproj.CoreCompileInputs.cache
+C:\Users\Pensiones\Desktop\proyecto progra servicios publicos\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.dll
+C:\Users\Pensiones\Desktop\proyecto progra servicios publicos\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\refint\Servicios_Publicos.dll
+C:\Users\Pensiones\Desktop\proyecto progra servicios publicos\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.pdb
+C:\Users\Pensiones\Desktop\proyecto progra servicios publicos\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.genruntimeconfig.cache
+C:\Users\Pensiones\Desktop\proyecto progra servicios publicos\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\ref\Servicios_Publicos.dll
+C:\Users\Pensiones\OneDrive - Universidad Politécnica Internacional\progra2\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\bin\Debug\net8.0\Servicios_Publicos.exe
+C:\Users\Pensiones\OneDrive - Universidad Politécnica Internacional\progra2\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\bin\Debug\net8.0\Servicios_Publicos.deps.json
+C:\Users\Pensiones\OneDrive - Universidad Politécnica Internacional\progra2\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\bin\Debug\net8.0\Servicios_Publicos.runtimeconfig.json
+C:\Users\Pensiones\OneDrive - Universidad Politécnica Internacional\progra2\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\bin\Debug\net8.0\Servicios_Publicos.dll
+C:\Users\Pensiones\OneDrive - Universidad Politécnica Internacional\progra2\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\bin\Debug\net8.0\Servicios_Publicos.pdb
+C:\Users\Pensiones\OneDrive - Universidad Politécnica Internacional\progra2\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pensiones\OneDrive - Universidad Politécnica Internacional\progra2\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.AssemblyInfoInputs.cache
+C:\Users\Pensiones\OneDrive - Universidad Politécnica Internacional\progra2\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.AssemblyInfo.cs
+C:\Users\Pensiones\OneDrive - Universidad Politécnica Internacional\progra2\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.csproj.CoreCompileInputs.cache
+C:\Users\Pensiones\OneDrive - Universidad Politécnica Internacional\progra2\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.sourcelink.json
+C:\Users\Pensiones\OneDrive - Universidad Politécnica Internacional\progra2\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.dll
+C:\Users\Pensiones\OneDrive - Universidad Politécnica Internacional\progra2\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\refint\Servicios_Publicos.dll
+C:\Users\Pensiones\OneDrive - Universidad Politécnica Internacional\progra2\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.pdb
+C:\Users\Pensiones\OneDrive - Universidad Politécnica Internacional\progra2\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.genruntimeconfig.cache
+C:\Users\Pensiones\OneDrive - Universidad Politécnica Internacional\progra2\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\ref\Servicios_Publicos.dll
+C:\Users\walter\Downloads\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\bin\Debug\net8.0\Servicios_Publicos.exe
+C:\Users\walter\Downloads\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\bin\Debug\net8.0\Servicios_Publicos.deps.json
+C:\Users\walter\Downloads\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\bin\Debug\net8.0\Servicios_Publicos.runtimeconfig.json
+C:\Users\walter\Downloads\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\bin\Debug\net8.0\Servicios_Publicos.dll
+C:\Users\walter\Downloads\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\bin\Debug\net8.0\Servicios_Publicos.pdb
+C:\Users\walter\Downloads\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walter\Downloads\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.AssemblyInfoInputs.cache
+C:\Users\walter\Downloads\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.AssemblyInfo.cs
+C:\Users\walter\Downloads\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.csproj.CoreCompileInputs.cache
+C:\Users\walter\Downloads\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.dll
+C:\Users\walter\Downloads\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\refint\Servicios_Publicos.dll
+C:\Users\walter\Downloads\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.pdb
+C:\Users\walter\Downloads\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.genruntimeconfig.cache
+C:\Users\walter\Downloads\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\ref\Servicios_Publicos.dll
+C:\Users\walter\Downloads\Servicios_Publicos\Servicios_Publicos\bin\Debug\net8.0\Servicios_Publicos.exe
+C:\Users\walter\Downloads\Servicios_Publicos\Servicios_Publicos\bin\Debug\net8.0\Servicios_Publicos.deps.json
+C:\Users\walter\Downloads\Servicios_Publicos\Servicios_Publicos\bin\Debug\net8.0\Servicios_Publicos.runtimeconfig.json
+C:\Users\walter\Downloads\Servicios_Publicos\Servicios_Publicos\bin\Debug\net8.0\Servicios_Publicos.dll
+C:\Users\walter\Downloads\Servicios_Publicos\Servicios_Publicos\bin\Debug\net8.0\Servicios_Publicos.pdb
+C:\Users\walter\Downloads\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walter\Downloads\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.AssemblyInfoInputs.cache
+C:\Users\walter\Downloads\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.AssemblyInfo.cs
+C:\Users\walter\Downloads\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.csproj.CoreCompileInputs.cache
+C:\Users\walter\Downloads\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.sourcelink.json
+C:\Users\walter\Downloads\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.dll
+C:\Users\walter\Downloads\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\refint\Servicios_Publicos.dll
+C:\Users\walter\Downloads\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.pdb
+C:\Users\walter\Downloads\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.genruntimeconfig.cache
+C:\Users\walter\Downloads\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\ref\Servicios_Publicos.dll
